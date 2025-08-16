@@ -5,3 +5,4 @@ if нажата кнопка
 
 
 print("How are you");
+print("How are you")123123
