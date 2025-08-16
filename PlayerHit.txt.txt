@@ -1,0 +1,4 @@
+using Unity;
+
+class скрипта
+if нажата кнопка 
